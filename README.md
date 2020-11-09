@@ -1,5 +1,5 @@
 # Kawa-Minecraft-Monitor
-This project is using status library from (Thanatath's status page)[https://github.com/thanatath/php-minecraft-server-status].
+This project is using status library from [Thanatath's status page](https://github.com/thanatath/php-minecraft-server-status).
 # Installation
 Use git to clone this file to your wwwroot, and it'll be fine.
 
